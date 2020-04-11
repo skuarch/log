@@ -1,4 +1,3 @@
 log_reader/.idea
-./build
-build/*
+log_reader/build/*
 
